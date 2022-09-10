@@ -1,0 +1,43 @@
+Vivado Simulator 2016.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2016.2/bin/unwrapped/win64.o/xelab.exe -wto c3d9887e564e4f07ad416103c128a6fe --debug typical --relax --mt 2 --maxdelay -L xil_defaultlib -L simprims_ver -L secureip --snapshot sccomp_tb_time_synth -transport_int_delays -pulse_r 0 -pulse_int_r 0 xil_defaultlib.sccomp_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module simprims_ver.GND
+Compiling module simprims_ver.LUT6
+Compiling module simprims_ver.x_lut3_mux4
+Compiling module simprims_ver.x_lut3_mux4_reduced_0
+Compiling module simprims_ver.LUT3
+Compiling module simprims_ver.MUXF7
+Compiling module simprims_ver.LUT4
+Compiling module simprims_ver.LUT5
+Compiling module simprims_ver.MUXF8
+Compiling module simprims_ver.x_lut2_mux4
+Compiling module simprims_ver.LUT2
+Compiling module xil_defaultlib.imem_rom
+Compiling module xil_defaultlib.imem_dist_mem_gen_v8_0_10_synth
+Compiling module xil_defaultlib.imem_dist_mem_gen_v8_0_10
+Compiling module xil_defaultlib.imem
+Compiling module xil_defaultlib.PC
+Compiling module xil_defaultlib.NPC
+Compiling module xil_defaultlib.control
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.add
+Compiling module xil_defaultlib.II
+Compiling module xil_defaultlib.ext5
+Compiling module xil_defaultlib.ext16
+Compiling module xil_defaultlib.ext18
+Compiling module xil_defaultlib.mux5
+Compiling module xil_defaultlib.muxpc
+Compiling module xil_defaultlib.mux32
+Compiling module xil_defaultlib.regfile
+Compiling module xil_defaultlib.cpu
+Compiling module xil_defaultlib.dmem
+Compiling module xil_defaultlib.sccomp_dataflow
+Compiling module xil_defaultlib.sccomp_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot sccomp_tb_time_synth
